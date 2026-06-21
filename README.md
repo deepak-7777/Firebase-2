@@ -1,5 +1,5 @@
 📂 Firebase Google Sign-In Practice 
-
+ 
 This repository contains my practice work created while learning Firebase Authentication in Android. It demonstrates the implementation of Google Sign-In using Firebase, allowing users to authenticate securely with their Google accounts.
 
 📚 About
