@@ -23,7 +23,7 @@ Google Sign-In Provider
 
 🛠️ Tech Used
 
-Android Studio
+Android Studio 
 Java / Kotlin
 Firebase Console
 Google Cloud Console
